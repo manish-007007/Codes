@@ -18,7 +18,7 @@ def SieveOfEratosthenes(n):
 
     p = 2
 
-    while (p * p >= n): 
+    while (p * p <= n): 
 
           
 
