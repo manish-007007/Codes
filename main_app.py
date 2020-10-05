@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd 
+import missingno as msg
 import numpy as np
 import seaborn as sb 
 import matplotlib.pyplot as plt 
