@@ -1,6 +1,8 @@
 import streamlit as st
 import os
 import torch
+import missingno as msg
+import pandas as pd
 import torch.nn as nn
 from torchvision import transforms , models
 from PIL import Image
